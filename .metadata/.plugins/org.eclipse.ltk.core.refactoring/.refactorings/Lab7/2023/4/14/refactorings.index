@@ -1,0 +1,30 @@
+1680530322470	Move 'hitcounter.jsp' to 'view'
+1680533078948	Move 'NewFile.xml' to 'webapp'
+1680533319763	Copy file
+1680533329749	Move 'NewFile.xml' to 'view'
+1680533346006	Delete element
+1680533642330	Delete element
+1680533647949	Rename type 'B1'
+1680533669737	Delete element
+1680537472197	Rename resource 'edit-profile.jsp'
+1680543679441	Delete element
+1680543780693	Delete element
+1680543930460	Delete element
+1680544058933	Rename type 'AccountServlet'
+1680544097826	Rename type 'b2'
+1680544123445	Rename resource 'logout.jsp'
+1680544339535	Rename resource 'Home.jsp'
+1680624785927	Copy compilation unit
+1680624788990	Delete element
+1680624792492	Delete element
+1680624976845	Delete element
+1680625470791	Delete element
+1680635631141	Delete element
+1680635695548	Delete element
+1680672204687	Move 'hitcounter.jsp' to 'webapp'
+1680672209312	Delete element
+1680672240180	Move 3 resources to 'webapp'
+1680943237938	Copy package
+1680943256122	Copy folder
+1680943305133	Delete element
+1680943310381	Delete element

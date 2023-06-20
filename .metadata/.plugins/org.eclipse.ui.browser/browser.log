@@ -1,0 +1,5 @@
+
+Apr 11, 2023 21:57:42.411 NEW SESSION
+Apr 11, 2023 21:57:42.412 [14328:23284:0411/215742.403:ERROR:device_event_log_impl.cc(222)] [21:57:42.402] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 11, 2023 21:57:42.412 [14328:23284:0411/215742.404:ERROR:device_event_log_impl.cc(222)] [21:57:42.403] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 21:57:42.983 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

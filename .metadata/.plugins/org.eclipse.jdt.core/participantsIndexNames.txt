@@ -1,0 +1,3 @@
+INDEX VERSION 1.132
+D:\java4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3823789939.index
+\PolyAss\src\main\java
